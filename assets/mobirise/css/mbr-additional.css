@@ -2650,9 +2650,22 @@ body {
 .cid-qZcLMSUpQA .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r0aoWYWLro {
+.cid-r0dBrL8l5p {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-r0dBrL8l5p .mbr-section-title {
+  margin: 0;
+  padding: 15px 0;
+  color: #ffffff;
+}
+.cid-r0dBrL8l5p .mbr-section-title DIV {
+  color: #ffffff;
+}
+.cid-r0aoWYWLro {
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r0aoWYWLro .title {
