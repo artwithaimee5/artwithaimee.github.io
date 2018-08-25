@@ -3118,7 +3118,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r1LEuAyEnk {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -3207,4 +3207,9 @@ body {
   .cid-r1LEuAyEnk .social-list {
     text-align: center !important;
   }
+}
+.cid-r1LHDS4Xwy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
