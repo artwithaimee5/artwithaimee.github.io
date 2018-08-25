@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artwithaimee",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -460,7 +460,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content3",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"studiosessions.html\" data-app-placeholder=\"Type Text\">STUDIO SESSIONS</a>\n                    <a class=\"btn btn-danger-outline\" href data-app-placeholder=\"Type Text\">NEXT MONTHLY WORKSHOP</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"studiosessions.html\" data-app-placeholder=\"Type Text\">STUDIO SESSIONS</a>\n                    <a class=\"btn btn-danger-outline\" href=\"Workshops\" data-app-placeholder=\"Type Text\">MONTHLY WORKSHOP</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r1LD2PeOAw",
           "_anchor": "content3-1s",
           "_protectedParams": [],
@@ -1293,7 +1293,8 @@
     "gallery.html": {
       "settings": {
         "title": "Art with Aimee: Gallery",
-        "order": 2
+        "order": 2,
+        "meta_descr": ""
       },
       "components": [
         {
@@ -2735,7 +2736,7 @@
         }
       ]
     },
-    "page3.html": {
+    "Workshops": {
       "settings": {
         "title": "Art with Aimee: Monthly Workshops",
         "order": 1
