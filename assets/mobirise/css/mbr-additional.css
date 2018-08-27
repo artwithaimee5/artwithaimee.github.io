@@ -3213,3 +3213,9 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+#custom-html-1x {
+  /* Type valid CSS here */
+}
+#custom-html-1x .my-image {
+  width: 100%;
+}
