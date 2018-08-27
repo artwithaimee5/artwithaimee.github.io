@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artwithaimee",
-    "currentPage": "index.html",
+    "currentPage": "Workshops",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -3196,23 +3196,6 @@
           "_once": false,
           "_params": {},
           "_anchor": "content3-1w"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n{JS_CODE_0}{JS_CODE_1}",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-1x",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
-            "<script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"6e3feb8589e46d571133fb8d4\",\"lid\":\"5d76d32ec7\"}) })</script>"
-          ]
         }
       ]
     }
