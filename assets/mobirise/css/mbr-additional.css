@@ -1096,6 +1096,12 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
 }
+#custom-html-1y {
+  /* Type valid CSS here */
+}
+#custom-html-1y .my-image {
+  width: 100%;
+}
 .cid-r1DKTr6MKw {
   padding-top: 60px;
   padding-bottom: 15px;
